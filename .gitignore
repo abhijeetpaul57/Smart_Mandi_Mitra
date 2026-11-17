@@ -1,0 +1,18 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+*.out
+
+# Build directories
+build/
+bin/
+
+# Temporary / OS files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Generated output board
+# market_board.txt can be tracked or generated

@@ -1,0 +1,66 @@
+================================================================================
+            MANDIMITRA: SMART VEGETABLE MARKET ENTRANCE DIRECTORY               
+        Real-Time Price, Freshness & Vendor Guide for Informed Shoppers         
+================================================================================
+ Date: 2026-11-18 | Live Information Board | Source: On-Site Fieldwork
+ Welcome to the Local Mandi! Discover quality produce and check stall locations.
+--------------------------------------------------------------------------------
+
+--- SECTION 1: TODAY'S VEGETABLE PRICE & FRESHNESS DIRECTORY ---
+
+Vegetable      Vendor            Shop No   Zone          Price/kg    Freshness   
+--------------------------------------------------------------------------------
+Tomato         Stall S-01        S-01      Entrance      Rs 45       Moderate    
+Potato         Stall S-01        S-01      Entrance      Rs 28       Fresh       
+Onion          Stall S-01        S-01      Entrance      Rs 36       Moderate    
+Cauliflower    Stall S-01        S-01      Entrance      Rs 38       Moderate    
+Tomato         Stall S-03        S-03      Entrance      Rs 44       Fresh       
+Potato         Stall S-03        S-03      Entrance      Rs 27       Fresh       
+Green Chilli   Stall S-03        S-03      Entrance      Rs 75       Fresh       
+Peas           Stall S-03        S-03      Entrance      Rs 60       Fresh       
+Tomato         Stall S-07        S-07      Middle Lane   Rs 40       Fresh       
+Potato         Stall S-07        S-07      Middle Lane   Rs 25       Fresh       
+Onion          Stall S-07        S-07      Middle Lane   Rs 32       Fresh       
+Brinjal        Stall S-07        S-07      Middle Lane   Rs 30       Moderate    
+Tomato         Stall S-10        S-10      Inner Lane    Rs 36       Fresh       
+Green Chilli   Stall S-10        S-10      Inner Lane    Rs 65       Fresh       
+Raw Banana     Stall S-10        S-10      Inner Lane    Rs 32       Fresh       
+Spinach        Stall S-10        S-10      Inner Lane    Rs 22       Fresh       
+Radish         Stall S-10        S-10      Inner Lane    Rs 20       Fresh       
+Garlic         Stall S-15        S-15      Inner Lane    Rs 130      Fresh       
+Onion          Stall S-15        S-15      Inner Lane    Rs 30       Fresh       
+Potato         Stall S-15        S-15      Inner Lane    Rs 24       Fresh       
+Ginger         Stall S-15        S-15      Inner Lane    Rs 110      Fresh       
+Tomato         Stall S-15        S-15      Inner Lane    Rs 35       Fresh       
+Potato         Stall 23          23        Inner Lane    Rs 30       Moderate    
+
+--------------------------------------------------------------------------------
+--- SECTION 2: INNER-LANE SPOTLIGHT (WALK INSIDE FOR FRESH VALUE!) ---
+ Stalls located further inside the market often offer freshly stocked produce   
+ and competitive prices. Please consider walking 30 meters deeper to explore:    
+--------------------------------------------------------------------------------
+  -> Stall S-10 (Shop S-10): Tomato at Rs 36/kg [Fresh]
+  -> Stall S-10 (Shop S-10): Green Chilli at Rs 65/kg [Fresh]
+  -> Stall S-10 (Shop S-10): Raw Banana at Rs 32/kg [Fresh]
+  -> Stall S-10 (Shop S-10): Spinach at Rs 22/kg [Fresh]
+  -> Stall S-10 (Shop S-10): Radish at Rs 20/kg [Fresh]
+  -> Stall S-15 (Shop S-15): Garlic at Rs 130/kg [Fresh]
+  -> Stall S-15 (Shop S-15): Onion at Rs 30/kg [Fresh]
+  -> Stall S-15 (Shop S-15): Potato at Rs 24/kg [Fresh]
+  -> Stall S-15 (Shop S-15): Ginger at Rs 110/kg [Fresh]
+  -> Stall S-15 (Shop S-15): Tomato at Rs 35/kg [Fresh]
+  -> Stall 23 (Shop 23): Potato at Rs 30/kg [Moderate]
+
+--------------------------------------------------------------------------------
+--- SECTION 3: MARKET LAYOUT & STALL NAVIGATION GUIDE ---
+  [ MAIN ENTRANCE GATE ]
+           |  (Stalls: 1-15 meters) -> Entrance Zone
+           v
+  [ CENTRAL CROSSWAY ]
+           |  (Stalls: 15-40 meters) -> Middle Lane Zone
+           v
+  [ DEEP INNER ALLEY ]
+              (Stalls: 40+ meters) -> Inner Lane Zone (Support Small Vendors!)
+================================================================================
+ MandiMitra Project | Built with C++17 | Promoting Fair Market Discovery
+================================================================================
